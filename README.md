@@ -5,7 +5,7 @@
 &nbsp;
 
 <div id="badges" align="center">
-  <a href="https://www.linkedin.com/in/anton-podoplelov-1a9455351/">
+  <a href="https://www.linkedin.com/in/podoplelov//">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" width="150" height="50" alt="LinkedIn Badge"/>
   </a>
   <a href="https://t.me/APodoplelov">
